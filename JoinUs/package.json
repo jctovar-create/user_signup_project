@@ -1,0 +1,25 @@
+{
+  "name": "environment",
+  "version": "1.0.0",
+  "description": "This is a project is to      - sign new users up     - email them confirmation that they have been added to the database     - generate 500 fake users to begin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jctovar-create/user_signup_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jctovar-create/user_signup_project/issues"
+  },
+  "homepage": "https://github.com/jctovar-create/user_signup_project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "mysql": "^2.17.1"
+  }
+}
