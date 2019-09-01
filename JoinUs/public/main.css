@@ -1,0 +1,23 @@
+html{
+    background: url("https://images.unsplash.com/photo-1500964757637-c85e8a162699?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=778&q=80") no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+    background-size: cover;
+}
+
+#everything{
+    width:80%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Gentium Basic', serif;
+    font-size: 1.3em;
+}
+
+#insertEmail{
+    width:50%;
+}
+
+#joinBtn{
+    margin: 0px 10px;
+}
